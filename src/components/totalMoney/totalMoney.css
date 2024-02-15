@@ -1,0 +1,11 @@
+.total-money-container {
+    color: #fff;
+    background: linear-gradient(180deg,#2ecc71,#1abc9c);
+    font-size: 32px;
+    padding: 20px 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    top:0px;
+    position: sticky;
+}
